@@ -16,6 +16,7 @@ body {
   text-align: center;
   background-color: transparent;
   padding-bottom: 0px;
+  padding-top: 6px;
 }
 
 .jumbotron h1 {
@@ -103,4 +104,8 @@ body {
 .content {
   text-align: center;
   background-color: #FFF;
+}
+
+.perfil img {
+  margin-top: 10px;
 }
