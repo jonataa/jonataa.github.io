@@ -30,6 +30,18 @@ body {
   font-size: 21px;
 }
 
+h2 {
+  font-family: 'Dosis', 'sans-serif';  
+  text-align: center;
+  font-size: 4em;
+  margin: 35px 0px;
+}
+
+.big-text {
+  text-align: center;
+  font-size: 1.5em;
+}
+
 /* Customize the nav-justified links to be fill the entire space of the .navbar */
 
 .nav-justified {
